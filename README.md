@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, my name is Francisco</h1>
-<h3 align="center">am a Systems Analysis and Development student, passionate about the PYTHON and DATA SCIENCE language</h3>
+<h3 align="center">I am a Systems Analysis and Development student, passionate about the PYTHON and DATA SCIENCE language</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th3fsantos&label=Profile%20views&color=0e75b6&style=flat" alt="th3fsantos" /> </p>
 
